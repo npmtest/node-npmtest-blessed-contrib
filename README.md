@@ -1,7 +1,10 @@
-# test coverage for  [blessed-contrib (v4.7.5)](https://github.com/yaronn/blessed-contrib#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-blessed-contrib.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-blessed-contrib) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-blessed-contrib.svg)](https://travis-ci.org/npmtest/node-npmtest-blessed-contrib)
+# npmtest-blessed-contrib
+
+#### test coverage for  [blessed-contrib (v4.7.5)](https://github.com/yaronn/blessed-contrib#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-blessed-contrib.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-blessed-contrib) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-blessed-contrib.svg)](https://travis-ci.org/npmtest/node-npmtest-blessed-contrib)
+
 #### Build dashboards (or any other application) using ascii/ansi art and javascript.
 
-[![NPM](https://nodei.co/npm/blessed-contrib.png?downloads=true)](https://www.npmjs.com/package/blessed-contrib)
+[![NPM](https://nodei.co/npm/blessed-contrib.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/blessed-contrib)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-blessed-contrib/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-blessed-contrib/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-blessed-contrib/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-blessed-contrib/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-blessed-contrib/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-blessed-contrib/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-blessed-contrib/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-blessed-contrib/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-blessed-contrib/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-blessed-contrib/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-blessed-contrib%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-blessed-contrib/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-blessed-contrib/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-blessed-contrib/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-blessed-contrib/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-blessed-contrib%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-blessed-contrib/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-blessed-contrib/build/test-report.html](https://npmtest.github.io/node-npmtest-blessed-contrib/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-blessed-contrib/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-blessed-contrib/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-blessed-contrib/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-blessed-contrib/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-blessed-contrib/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-blessed-contrib/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-blessed-contrib/build/screenCapture.npmPackageListing.svg)
 
@@ -66,13 +75,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "yaron",
-            "email": "yaronn01@gmail.com"
+            "name": "yaron"
         }
     ],
     "name": "blessed-contrib",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/yaronn/blessed-contrib.git"
